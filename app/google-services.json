@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "702175661371",
+    "firebase_url": "https://chatapplication-121de-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-121de",
+    "storage_bucket": "chatapplication-121de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702175661371:android:e93de466b855211adafb1e",
+        "android_client_info": {
+          "package_name": "com.kaboomsanto.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHSAIcdltU4ivFB1VAv0ay3RLh0WrHQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
